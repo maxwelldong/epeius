@@ -285,6 +285,8 @@ Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)
 
 本项目的[订阅转换](https://sub.cmliussss.com/)后端由 VPS.Town 提供支持
 
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+
 ### 🛠 开源代码引用
 - [ca110us](https://github.com/ca110us/epeius)
 - [xream](https://github.com/xream)
